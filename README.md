@@ -1,26 +1,26 @@
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> **Hi there**
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a> Hi there
 
 I'm a Web Developer from Moscow, Russia, who loves making high-quality websites and applications.
 
-👷 **Check out what I'm currently working on**
+### 👷 Check out what I'm currently working on
 
 
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - A Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
-- [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 
-- [AlexandrLo/landic](https://github.com/AlexandrLo/landic) - https://alexandrlo.github.io/landic/
-- [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - An online Pomodoro Timer to boost your productivity
+- [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router, with preconfigured Webpack
+- [AlexandrLo/landic](https://github.com/AlexandrLo/landic) - Design System for Landing Pages
+- [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
 
-🌱 **My latest projects**
+### 🌱 My latest projects
 
 
-- [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 
+- [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router, with preconfigured Webpack
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - A Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
-- [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - An online Pomodoro Timer to boost your productivity
+- [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
 - [AlexandrLo/payna-landing](https://github.com/AlexandrLo/payna-landing) - Finance Landing Page Template
 
-⭐ **Recent Stars**
+### ⭐ Recent Stars
 
 
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
@@ -29,7 +29,7 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality websites 
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant
 - [TBens/lovelace-ui-minimalist](https://github.com/TBens/lovelace-ui-minimalist) - 🌻 Lovelace UI • Minimalist
 
-📫 **How to reach me**
+### 📫 How to reach me
 
 - Email: [alexandr.lo@outlook.com](mailto:alexandr.lo@outlook.com)
 
