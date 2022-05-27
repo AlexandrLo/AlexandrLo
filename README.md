@@ -32,6 +32,7 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality websites 
 ### 📫 How to reach me
 
 - Email: [alexandr.lo@outlook.com](mailto:alexandr.lo@outlook.com)
+- Telegram: [@Alexandr_Lo](https://t.me/Alexandr_Lo)
 
 <details>
 <summary><b>🛠️ Languages and Tools I'm Using</b></summary>
