@@ -1,6 +1,6 @@
 ### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there
 
-I'm a Web Developer from Moscow, Russia, who loves making high-quality websites and applications.
+I'm a Web Developer from Moscow, Russia, who loves making high-quality web applications.
 
 ### 👷 Check out what I'm currently working on
 
