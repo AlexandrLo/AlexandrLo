@@ -5,8 +5,8 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 ### 👷 Check out what I'm currently working on
 
 
-- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
+- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
 - [AlexandrLo/landic](https://github.com/AlexandrLo/landic) - Design System for Landing Pages
