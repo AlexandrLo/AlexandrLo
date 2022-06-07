@@ -5,20 +5,20 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 ### 👷 Check out what I'm currently working on
 
 
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
 - [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
-- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 - [AlexandrLo/payna-landing](https://github.com/AlexandrLo/payna-landing) - Finance Landing Page Template
-- [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
+- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 
 ### 🌱 My latest projects
 
 
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 - [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
-- [AlexandrLo/payna-landing](https://github.com/AlexandrLo/payna-landing) - Finance Landing Page Template
 
 ### ⭐ Recent Stars
 
