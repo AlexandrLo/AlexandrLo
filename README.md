@@ -7,14 +7,14 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
-- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 - [AlexandrLo/payna-landing](https://github.com/AlexandrLo/payna-landing) - Finance Landing Page Template
 
 ### 🌱 My latest projects
 
 
-- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
