@@ -6,8 +6,8 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 
 
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
-- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
 - [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 - [AlexandrLo/payna-landing](https://github.com/AlexandrLo/payna-landing) - Finance Landing Page Template
 
