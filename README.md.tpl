@@ -46,6 +46,6 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 
 <details>
     <summary><b>📈 Stats</b></summary>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrlo&" alt="alexandrlo" /></p>
-    <p><img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexandrlo" alt="alexandrlo" /></p>
+    <p><img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrlo&" alt="alexandrlo" /></p>
+    <p><img align="center" width="500px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexandrlo" alt="alexandrlo" /></p>
 </details>
