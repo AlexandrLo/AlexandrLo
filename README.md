@@ -5,7 +5,7 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 ### 👷 Check out what I'm currently working on
 
 
-- [AlexandrLo/idaproject-test](https://github.com/AlexandrLo/idaproject-test) - 
+- [AlexandrLo/vue-test-task](https://github.com/AlexandrLo/vue-test-task) - 
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 - [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
 - [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
@@ -14,7 +14,7 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 ### 🌱 My latest projects
 
 
-- [AlexandrLo/idaproject-test](https://github.com/AlexandrLo/idaproject-test) - 
+- [AlexandrLo/vue-test-task](https://github.com/AlexandrLo/vue-test-task) - 
 - [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
 - [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
