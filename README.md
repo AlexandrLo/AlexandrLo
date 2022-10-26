@@ -6,28 +6,28 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 
 
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
-- [AlexandrLo/url-shortener](https://github.com/AlexandrLo/url-shortener) - 
-- [AlexandrLo/pomosh-test](https://github.com/AlexandrLo/pomosh-test) - 
 - [AlexandrLo/vue-test-task](https://github.com/AlexandrLo/vue-test-task) - 
-- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
+- [AlexandrLo/pomo](https://github.com/AlexandrLo/pomo) - ⏰ An online Pomodoro Timer to boost your productivity
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 💼 Simple portfolio built with React and Chakra UI
+- [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 
 ### 🌱 My latest projects
 
 
-- [AlexandrLo/url-shortener](https://github.com/AlexandrLo/url-shortener) - 
-- [AlexandrLo/pomosh-test](https://github.com/AlexandrLo/pomosh-test) - 
 - [AlexandrLo/vue-test-task](https://github.com/AlexandrLo/vue-test-task) - 
-- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - Simple portfolio built with React and Chakra UI
+- [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 💼 Simple portfolio built with React and Chakra UI
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
+- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
+- [AlexandrLo/screeno-landing](https://github.com/AlexandrLo/screeno-landing) - Streaming Service Landing Page Template
 
 ### ⭐ Recent Stars
 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-- [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded) - A window manager for GNOME, with rounded corners patch
 
 ### 📫 How to reach me
 
