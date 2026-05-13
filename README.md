@@ -5,16 +5,17 @@ I'm a Web Developer from Moscow, Russia, who loves making high-quality web appli
 ### 👷 Check out what I'm currently working on
 
 
+- [AlexandrLo/pandakb-sofle-zmk-config](https://github.com/AlexandrLo/pandakb-sofle-zmk-config) - 
 - [AlexandrLo/mermaid-agent](https://github.com/AlexandrLo/mermaid-agent) - CLI tool for generating Mermaid diagrams using AI
 
 ### 🌱 My latest projects
 
 
+- [AlexandrLo/pandakb-sofle-zmk-config](https://github.com/AlexandrLo/pandakb-sofle-zmk-config) - 
 - [AlexandrLo/mermaid-agent](https://github.com/AlexandrLo/mermaid-agent) - CLI tool for generating Mermaid diagrams using AI
 - [AlexandrLo/vue-test-task](https://github.com/AlexandrLo/vue-test-task) - 
 - [AlexandrLo/alexandrlo.github.io](https://github.com/AlexandrLo/alexandrlo.github.io) - 💼 Simple portfolio built with React and Chakra UI
 - [AlexandrLo/react-chakra-boilerplate](https://github.com/AlexandrLo/react-chakra-boilerplate) - 📄 Template / Boilerplate using React, Chakra UI and React Router
-- [AlexandrLo/instor](https://github.com/AlexandrLo/instor) - Furniture Store Web App Prototype
 
 ### ⭐ Recent Stars
 
